@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://chairman-ray.github.io/</id>
-    <title>ac</title>
-    <updated>2021-07-16T12:56:19.402Z</updated>
+    <id>https://rayray.xyz/</id>
+    <title>ray的个人站</title>
+    <updated>2021-07-16T13:09:38.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://chairman-ray.github.io/"/>
-    <link rel="self" href="https://chairman-ray.github.io/atom.xml"/>
+    <link rel="alternate" href="https://rayray.xyz/"/>
+    <link rel="self" href="https://rayray.xyz/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://chairman-ray.github.io/images/avatar.png</logo>
-    <icon>https://chairman-ray.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, ac</rights>
+    <logo>https://rayray.xyz/images/avatar.png</logo>
+    <icon>https://rayray.xyz/favicon.ico</icon>
+    <rights>All rights reserved 2021, ray的个人站</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://chairman-ray.github.io/post/hello-gridea/</id>
-        <link href="https://chairman-ray.github.io/post/hello-gridea/">
+        <id>https://rayray.xyz/post/hello-gridea/</id>
+        <link href="https://rayray.xyz/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
